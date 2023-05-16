@@ -1,0 +1,1 @@
+Użyłem kolekcji ArrayList, ponieważ jest prosta w obsłudze i optymalna
